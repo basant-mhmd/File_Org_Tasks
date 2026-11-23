@@ -1,0 +1,7 @@
+# depslib dependency file v1.0
+1793030630 source:d:\.1a basant\studying\file organization\filr org sec4\file org task4\main.cpp
+	<iostream>
+	<fstream>
+	<string>
+	<vector>
+
